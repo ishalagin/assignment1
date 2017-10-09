@@ -1,0 +1,90 @@
+#topImg {
+    width:300px;
+    height:150px;
+    position:absolute;
+    text-align: center;
+    margin-left: -150px;
+    margin-top: -75px;
+    top: 30%;
+    left:45%;
+
+    
+}
+
+#leftImg {
+    width:300px;
+    height:150px;
+    position:absolute;
+    text-align: center;
+    margin-top: -75px;
+    margin-left: -150px;
+    top:50%;
+    left:25%;
+
+    
+}
+
+#rightImg {
+    position:absolute;
+    text-align: center;
+    height: 150px;
+    width: 300px;
+    margin-top: -75px;
+    margin-left: -150px;
+    top:50%;
+    left:65%;
+
+}
+
+#botImg {
+    width:300px;
+    height:150px;
+    position:absolute;
+    text-align: center;
+    top: 70%;
+    left:45%;
+    margin-left: -150px;
+    margin-top: -75px;
+}
+#cntrPanel {
+    height:50px;
+    width: 500px;
+    position: fixed;
+    text-align: center;
+    margin: auto;
+    bottom: 0px;
+    left: 0px;
+    right:0px;
+}
+
+#topPanel {
+    position:absolute;
+    text-align: center;
+    margin:auto;
+    text-align: center;
+    height: 50px;
+    width: auto;
+    bottom:50px;
+    left:0px;
+    right: 0px;
+}
+#reset {
+    left:0px;
+    padding: 0 125px;
+    
+}
+
+#directionArrow {
+    position:relative;
+    
+    
+}
+
+
+
+
+.button {
+    width:40px;
+    height:40px;
+    object-fit: cover;
+}
